@@ -1080,13 +1080,15 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
               "name": "phone",
-              "link": "https://mobirise.com",
+              "family": "et-line",
+              "active": true,
+              "link": "index.html#features4-20",
               "size": 0,
               "color": "black",
-              "family": "et-line"
+              "newWindow": false
             }
           },
           "media2": {
@@ -1096,9 +1098,10 @@
               "name": "pin",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features4-20",
               "size": 0,
-              "color": "black"
+              "color": "black",
+              "newWindow": false
             }
           },
           "media3": {
