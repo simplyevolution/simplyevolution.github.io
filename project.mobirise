@@ -202,7 +202,7 @@
             "overlayOpacity": 0.5
           },
           "title": "​Suntem Simply Evolution",
-          "text": "<p>Credem că design-urile uimitoare încep cu o idee simplă, un stilou și hârtie.Simply Evolution, o echipă de entuziaști de design dedicată obiectivelor și viziunii tale. Prin gama noastră largă de servicii, vom avea grijă ca așteptările dvs. să nu fie doar îndeplinite, ci și depășite.</p>",
+          "text": "<p>Credem că design-urile uimitoare încep cu o idee simplă, un stilou și hârtie.Simply Evolution este o echipă de entuziaști de design, dedicată obiectivelor și viziunii tale. Prin gama noastră largă de servicii, vom avea grijă ca așteptările dvs. să nu fie doar îndeplinite, ci și depășite.</p>",
           "_tags": [
             "Theme"
           ],
@@ -232,7 +232,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<span style=\"font-style: normal;\">Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#content5-1o\" data-toolbar=\"-mbrBtnMove\">VEZI MAI MULT</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1o\" data-toolbar=\"-mbrBtnMove\">VEZI MAI MULT</a> ",
                 "overlayOpacity": "0.3"
               },
               {
@@ -247,7 +247,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<span style=\"font-style: normal;\">Slide with youtube video background and color overlay.</span><br><span style=\"font-style: normal;\"> Title and text are aligned to the left.</span>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#content5-1s\" data-toolbar=\"-mbrBtnMove\">VEZI MAI MULT</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1s\" data-toolbar=\"-mbrBtnMove\">VEZI MAI MULT</a> ",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#2b0680"
               },
@@ -263,7 +263,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html#content5-1r\" data-toolbar=\"-mbrBtnMove\">VEZI MAI MULT</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#content5-1r\" data-toolbar=\"-mbrBtnMove\">VEZI MAI MULT</a> ",
                 "overlayOpacity": "0.3"
               }
             ]
@@ -318,7 +318,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Tot ce ai nevoie!<br>",
-          "text": "<p>La Simply Evolution, am creat servicii inteligente, flexibile și accesibile, care funcționează pentru toți clienții noștri. Indiferent de nevoile dvs., echipa noastră de experți în design vor ieși din zona lor de confort pentru a personaliza ofertele la cerințele dvs.&nbsp;</p><p><span style=\"font-size: 1.07rem;\">De la început până la sfârșit, vă vom trece prin fiecare pas al procesului și până la un rezultat uimitor. Consultați lista noastră de servicii de mai jos și sunați-ne astăzi pentru a rezerva consultarea dvs. gratuită.</span></p>",
+          "text": "<p>La Simply Evolution, am creat servicii inteligente, flexibile și accesibile, care funcționează pentru toți clienții noștri. Indiferent de nevoile dvs., echipa noastră de experți vor ieși din zona lor de confort pentru a personaliza ofertele la cerințele dvs.&nbsp;</p><p><span style=\"font-size: 1.07rem;\">De la început până la sfârșit, vă vom trece prin fiecare pas al procesului și până la un rezultat uimitor. Consultați lista noastră de servicii de mai jos și sunați-ne astăzi pentru a rezerva consultarea dvs. gratuită.</span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
