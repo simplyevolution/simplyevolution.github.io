@@ -243,7 +243,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=EhDmB1NvU-c&feature=youtu.be",
-                "title": "Modelare și Vizualizare 3D\n",
+                "title": "Modelare și Vizualizare <br>3D\n",
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "<span style=\"font-style: normal;\">Slide with youtube video background and color overlay.</span><br><span style=\"font-style: normal;\"> Title and text are aligned to the left.</span>",
