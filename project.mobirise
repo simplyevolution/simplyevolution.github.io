@@ -40,7 +40,11 @@
     "cookiesAlert": "",
     "gdpr": "",
     "google-analytics": "",
-    "siteUrl": "undefined"
+    "siteUrl": "",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "sitemapSwitcherAuto": "on",
+    "сanonical-url": ""
   },
   "pages": {
     "index.html": {
