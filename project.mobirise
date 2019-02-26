@@ -158,11 +158,11 @@
             "bgVideoRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/oTx5MRq4GuE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=oTx5MRq4GuE",
+              "rawUrl": "https://youtu.be/oTx5MRq4GuE?t=2",
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
@@ -1105,7 +1105,7 @@
           },
           "title1": "Contact",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>E-mail: </b>office.simplyevolution@gmail.com \n<br><b>Mobil: </b>+40 746 777 969",
+          "caption1": "<b>E-mail: </b>contact@simplyevolution.ro&nbsp;<br><b>Mobil: </b>+40 746 777 969",
           "title2": "Adresă",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "<b>Str.</b> Dr. Cornel Radu,\n<br><b>Bl.</b> 324, Arad",
