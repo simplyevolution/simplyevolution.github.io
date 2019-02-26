@@ -157,8 +157,8 @@
             "bgColor": "#000000",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/CoSqB6zeHj0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?time_continue=8&v=CoSqB6zeHj0",
+              "url": "https://www.youtube.com/embed/oTx5MRq4GuE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/oTx5MRq4GuE",
               "width": 1280,
               "height": 720
             },
@@ -166,14 +166,19 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.2"
           },
-          "title": "<span style=\"font-weight: normal;\">evoluăm</span>&nbsp;ÎMPREUNĂ",
+          "title": "<span style=\"font-weight: normal;\">evoluăm</span>&nbsp; ÎMPREUNĂ",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1"
+          "_anchor": "header1-1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          }
         },
         {
           "_inherit": "msg-box8",
@@ -241,7 +246,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/7-1920x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
@@ -257,12 +262,12 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": true,
-                "videoUrl": "https://youtu.be/0HP8nwbr51k",
+                "videoUrl": "https://youtu.be/H59f5seOh1U",
                 "title": "Animații și <br>Spoturi Video\n",
                 "overlay": true,
                 "contentAlign": "left",
