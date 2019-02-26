@@ -32,7 +32,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 78,
+    "uniqCompNum": 77,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/simply-evolution-logo-web-icon-75x75-1.png",
@@ -157,8 +157,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/oTx5MRq4GuE?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/oTx5MRq4GuE?t=2",
+              "url": "https://player.vimeo.com/video/320002836?autoplay=0&loop=0",
+              "rawUrl": "https://vimeo.com/320002836",
               "width": 1280,
               "height": 720
             },
