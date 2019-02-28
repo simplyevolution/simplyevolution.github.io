@@ -188,7 +188,8 @@
             },
             ".lead P": {
               "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "17px"
             }
           },
           "_params": {
@@ -211,7 +212,7 @@
             "overlayOpacity": 0.5
           },
           "title": "​Suntem Simply Evolution",
-          "text": "<p>Credem că design-urile uimitoare încep cu o idee simplă, un stilou și hârtie. Simply Evolution este o echipă de entuziaști de design, dedicată obiectivelor și viziunii tale. Prin gama noastră largă de servicii, vom avea grijă ca așteptările dvs. să nu fie doar îndeplinite, ci și depășite.</p>",
+          "text": "<p>Suntem convinși că design-ul de calitate începe cu o idee simplă, o hârtie și un creion.<span style=\"font-size: 1.07rem;\">Simply Evolution este o echipă de designeri entuziaști, dedicată obiectivelor și viziunii tale. Prin gama noastră largă de servicii, vom avea grijă ca așteptările tale să nu fie doar îndeplinite, ci depășite.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -327,7 +328,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Tot ce ai nevoie!<br>",
-          "text": "<p>La Simply Evolution, am creat servicii inteligente, flexibile și accesibile, care funcționează pentru toți clienții noștri. Indiferent de nevoile dvs., echipa noastră de experți vor ieși din zona lor de confort pentru a personaliza ofertele la cerințele dvs.&nbsp;</p><p><span style=\"font-size: 1.07rem;\">De la început până la sfârșit, vă vom trece prin fiecare pas al procesului și până la un rezultat uimitor. Consultați lista noastră de servicii de mai jos și sunați-ne astăzi pentru a rezerva consultarea dvs. gratuită.</span></p>",
+          "text": "<p>Simply Evolution oferă servicii de design de cea mai bună calitate, flexibile și accesibile. Indiferent de nevoile tale, echipa noastră va ieși din zona de confort pentru a-ți oferi soluții personalizate.</p><p><span style=\"font-size: 1.07rem;\">Vom comunica pe durata întregului proces, astfel încât să ajungem împreună la cel mai bun rezultat.&nbsp;</span><span style=\"font-size: 1.07rem;\">Vezi lista noastră de servicii și contactează-ne pentru a rezerva o consultare gratuită.&nbsp;</span></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -420,13 +421,13 @@
           },
           "title1": "Bootstrap 4",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "<b>&nbsp;Știm că cele mai bune rezultate provin din faptul că avem oamenii potriviți care lucrează la proiectul potrivit. Echipa noastră oferă expertiză în diferite domenii ale serviciilor agențiilor de branding.</b><br>",
+          "caption1": "<b>Știm că cele mai bune rezultate provin din faptul că oamenii potriviți lucrează la proiectul potrivit. Echipa noastră oferă expertiză în serviciile de branding.</b><br>",
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<b>Când vine vorba de a face o impresie de durată, este esențial să folosiți combinația potrivită de imagini create digital, pentru a crea un design atrăgător, care spune o poveste.</b><br>",
+          "caption2": "<b>Pentru o impresie de durată, este esențial să spui o poveste. Acest lucru îl putem realiza cu ajutorul elementelor de design tridimensional.</b><br>",
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<b>Oferim soluții de animație și efecte vizuale pentru fiecare client. Indiferent dacă ai nevoie de un spot sau o animație, întotdeauna ne asigurăm că îndeplinim cerințele clienților noștri.&nbsp;</b>",
+          "caption3": "<b>Dacă ai nevoie de un spot video sau o animație, designerii noștri vin în ajutorul tău cu efectele vizuale potrivite pentru tine.</b><br>",
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
