@@ -32,8 +32,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 77,
-    "versionPublish": "4.9.3",
+    "uniqCompNum": 80,
+    "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/simply-evolution-logo-web-icon-75x75-1.png",
     "noImageResize": "",
@@ -899,7 +899,7 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">TRIMITE</a>",
           "form": {
-            "action": "office.simplyevolution@gmail.com",
+            "action": "contact@simplyevolution.ro",
             "alerts": {
               "success": "Mulțumim pentru mesaj!"
             },
